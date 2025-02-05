@@ -1,0 +1,21 @@
+Models- Users 
+        Vendors
+        guest 
+
+
+View- Home
+      products
+      cart
+      orders
+      profile
+
+
+Controllers - Home-> Login, cart and products
+              Home/VendorLogin->simple vendorlogin page or View
+              Home/UserLogin -> simple user Login page or view
+              orders-> product added by user
+              products -> product added by Vendor
+
+priority- Home and Logins
+          will update as we make. 
+                                                                                                        edit 06,feb,2025 00.45.
