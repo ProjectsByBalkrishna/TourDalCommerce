@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tourdalCommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+032ac789f7e75a219e6dea332c7989a81fa084bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("tourdalCommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tourdalCommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

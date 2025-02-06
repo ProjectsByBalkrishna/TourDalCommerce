@@ -28,4 +28,17 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+
+    public IActionResult UserRegistration(UserModel user){
+       if(ModelState.IsValid){
+        var newuser=new UserModel{
+                UserName= user.UserName,
+                UserMail= user.UserMail,
+                Password= user.Password,
+                Phone= user.Phone
+                   };
+       } 
+                //    _context.user.add();
+        return View();
+    }
 }
