@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|c:\\users\\ritu2\\onedrive\\desktop\\tourdalcommerce\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|c:\\users\\ritu2\\onedrive\\desktop\\tourdalcommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|c:\\users\\ritu2\\onedrive\\desktop\\tourdalcommerce\\views\\home\\userdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|solutionrelative:views\\home\\userdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|c:\\users\\ritu2\\onedrive\\desktop\\tourdalcommerce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|c:\\users\\ritu2\\onedrive\\desktop\\tourdalcommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|c:\\users\\ritu2\\onedrive\\desktop\\tourdalcommerce\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|c:\\users\\ritu2\\onedrive\\desktop\\tourdalcommerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|c:\\users\\ritu2\\onedrive\\desktop\\tourdalcommerce\\views\\home\\userregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5681AAD-BB51-46E6-74A7-3F97B643AD2B}|tourdalCommerce.csproj|solutionrelative:views\\home\\userregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:35:34.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T17:45:38.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:45:16.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T17:45:10.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T16:17:39.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAlwCgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:58:18.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRegistration.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Views\\Home\\UserRegistration.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\UserRegistration.cshtml",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Views\\Home\\UserRegistration.cshtml",
+              "RelativeToolTip": "Views\\Home\\UserRegistration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T15:49:37.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Views\\Home\\UserDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\UserDetail.cshtml",
+              "ToolTip": "C:\\Users\\ritu2\\OneDrive\\Desktop\\tourdalCommerce\\Views\\Home\\UserDetail.cshtml",
+              "RelativeToolTip": "Views\\Home\\UserDetail.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T15:48:29.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

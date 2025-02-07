@@ -9,7 +9,7 @@ namespace tourdalCommerce.Models{
         [EmailAddress]
         public required string UserMail{get;set;}
         public required string Password{get; set;}
-        public required int? Phone{get; set;}
+        public required long Phone{get; set;}
     }
 
     public class UserLogin{

@@ -1,0 +1,53 @@
+@model IEnumerable<tourdalCommerce.Models.UserModel>;
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign UP</title>
+</head>
+
+<body>
+    <button class="btn"> <a class="btn btn-primary" asp-controller="Home" asp-action="UserRegistration">Create New
+            User</a> </button>
+
+    <table class="table">
+        <tr>
+            <th>
+                name
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Phone Number
+            </th>
+        </tr>
+
+
+        @foreach (var x in Model)
+        {
+
+
+            <tr>
+                <td>
+                    @x.UserName
+                </td>
+                <td>
+                    @x.UserMail
+                </td>
+                <td>
+                    @x.Phone
+                </td>
+
+            </tr>
+        }
+        }
+
+    </table>
+
+</body>
+
+</html>
