@@ -18,4 +18,6 @@ Controllers - Home-> Login, cart and products
 
 priority- Home and Logins
           will update as we make. 
-                                                                                                        edit 06,feb,2025 00.45.
+                                                                                                   edit 06,feb,2025 00.45.
+
+Created "Add user feature for Users"                                                             edit 07, feb, 2025 23:48.
